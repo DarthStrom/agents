@@ -1,2 +1,7 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My name is Jason Duffy. I'm a senior software engineer. I'm from Columbus, Ohio.
+
+I have 3 kids - boy girl twins that are freshmen in high school and a girl in seventh grade.  I play trombone in a charity cover band and I'm learning to play guitar on my own.  I have a group of friends that I play World of Warcraft with regularly as well as another group that I play in-person Dungeons & Dragon with.  I went to college at the Ohio State University where I participated in the Ohio State University Marching Band for 5 years, culminating with being the head squad leader for one of the two trombone rows during the 2002-2003 season where the Buckeyes won a national championship in the Fiesta Bowl against Miami.
+
+I'm a software developer focused on simplicity, clarity, and thoughtful collaboration. I gravitate toward tools and patterns that reduce complexity and make long-term maintenance easier. I aim to bring a calm, reliable approach to the work I do — and to the people I work with.
+
+I try to treat others as they'd like to be treated. It’s a small principle, but one that shapes how I build and communicate.
